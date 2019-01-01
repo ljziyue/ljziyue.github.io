@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on 子曰</title>
+    <link>https://ljziyue.github.io/blog/</link>
+    <description>Recent content in 博客 on 子曰</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 30 Dec 2018 12:10:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://ljziyue.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2010</title>
+      <link>https://ljziyue.github.io/blog/2018/12/30/2010/</link>
+      <pubDate>Sun, 30 Dec 2018 12:10:30 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/blog/2018/12/30/2010/</guid>
+      <description>本文转载自：Istio 官方网站，原文地址：https://istio.io/zh/blog/2018/announcing-1.0/ 今天，我</description>
+    </item>
+    
+    <item>
+      <title>这是第一篇使用md编辑的网页,一个新的开始</title>
+      <link>https://ljziyue.github.io/blog/2018/12/10/2018/</link>
+      <pubDate>Mon, 10 Dec 2018 13:07:31 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/blog/2018/12/10/2018/</guid>
+      <description>Markdown是一种轻量级的「标记语言」 如需在线托管MarkDown文档，建议选择文档仓库，这是一个永久免费的中文文档在线管理工具，支持M</description>
+    </item>
+    
+    <item>
+      <title>API管理和服务网格——为什么说服务网格无法替代API管理</title>
+      <link>https://ljziyue.github.io/blog/2018/10/09/api-management-and-service-mesh/</link>
+      <pubDate>Tue, 09 Oct 2018 12:26:41 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/blog/2018/10/09/api-management-and-service-mesh/</guid>
+      <description>API管理和服务网格——为什么说服务网格无法替代API管理 首先声明，我在RedHat工作，确切得说，是在3scale团队开发3scale AP</description>
+    </item>
+    
+  </channel>
+</rss>

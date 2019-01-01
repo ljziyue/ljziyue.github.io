@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 子曰</title>
+    <link>https://ljziyue.github.io/tags/</link>
+    <description>Recent content in Tags on 子曰</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 09 Oct 2018 12:26:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://ljziyue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Api Management</title>
+      <link>https://ljziyue.github.io/tags/api-management/</link>
+      <pubDate>Tue, 09 Oct 2018 12:26:41 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/tags/api-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://ljziyue.github.io/tags/ipsum/</link>
+      <pubDate>Mon, 10 Dec 2018 13:07:31 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Mesh</title>
+      <link>https://ljziyue.github.io/tags/service-mesh/</link>
+      <pubDate>Sun, 30 Dec 2018 12:10:30 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

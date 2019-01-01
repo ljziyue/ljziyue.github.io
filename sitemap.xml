@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ljziyue.github.io/blog/2018/12/30/2010/</loc>
+    <lastmod>2018-12-30T12:10:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/blog/</loc>
+    <lastmod>2018-12-30T12:10:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/blog/2018/12/10/2018/</loc>
+    <lastmod>2018-12-10T13:07:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/blog/2018/10/09/api-management-and-service-mesh/</loc>
+    <lastmod>2018-10-09T12:26:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/tags/api-management/</loc>
+    <lastmod>2018-10-09T12:26:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/tags/ipsum/</loc>
+    <lastmod>2018-12-10T13:07:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/categories/lorem/</loc>
+    <lastmod>2018-12-10T13:07:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/tags/service-mesh/</loc>
+    <lastmod>2018-12-30T12:10:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/tags/</loc>
+    <lastmod>2018-10-09T12:26:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/categories/translation/</loc>
+    <lastmod>2018-12-30T12:10:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/</loc>
+    <lastmod>2018-12-30T12:10:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljziyue.github.io/contact/</loc>
+  </url>
+  
+</urlset>
