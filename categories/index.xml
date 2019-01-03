@@ -11,20 +11,29 @@
     
     
     <item>
-      <title>Lorem</title>
-      <link>https://ljziyue.github.io/categories/lorem/</link>
+      <title>Markdown</title>
+      <link>https://ljziyue.github.io/categories/markdown/</link>
       <pubDate>Mon, 10 Dec 2018 13:07:31 +0800</pubDate>
       
-      <guid>https://ljziyue.github.io/categories/lorem/</guid>
+      <guid>https://ljziyue.github.io/categories/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Translation</title>
       <link>https://ljziyue.github.io/categories/translation/</link>
-      <pubDate>Sun, 30 Dec 2018 12:10:30 +0800</pubDate>
+      <pubDate>Tue, 09 Oct 2018 12:26:41 +0800</pubDate>
       
       <guid>https://ljziyue.github.io/categories/translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>优化</title>
+      <link>https://ljziyue.github.io/categories/%E4%BC%98%E5%8C%96/</link>
+      <pubDate>Sun, 30 Dec 2018 12:10:30 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/categories/%E4%BC%98%E5%8C%96/</guid>
       <description></description>
     </item>
     
