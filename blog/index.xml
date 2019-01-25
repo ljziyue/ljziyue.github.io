@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Linux常用配置及硬件检测命令</title>
+      <link>https://ljziyue.github.io/blog/2019/01/25/linux-command/</link>
+      <pubDate>Fri, 25 Jan 2019 15:17:43 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/blog/2019/01/25/linux-command/</guid>
+      <description>操作系统版本 $ uname -a # 查看系统，主机名，内核版本，系统架构等命令 $ top # 总览系统全面信息命令，Ctrl + C 退出界面 $ hostname # 查看服务器主机名命令 $ cat</description>
+    </item>
+    
+    <item>
       <title>网站修改优化记录</title>
       <link>https://ljziyue.github.io/blog/2018/12/30/modify-records/</link>
       <pubDate>Sun, 30 Dec 2018 12:10:30 +0800</pubDate>
       
       <guid>https://ljziyue.github.io/blog/2018/12/30/modify-records/</guid>
-      <description>本文持续更新网站最新修改优化记录 2019年1月3日，服务器本地图片大小优化，替换部分图片，减小页脚高度 2019年1月1日，升级百度地图api</description>
+      <description>本文持续更新网站最新修改优化记录 2019年1月5日，放弃体积较大的Font Awesome图标库，转而使用阿里巴巴Iconfont矢量图标库 2</description>
     </item>
     
     <item>
