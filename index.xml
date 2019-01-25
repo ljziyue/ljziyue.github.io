@@ -6,10 +6,19 @@
     <description>Recent content on 子曰</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 30 Dec 2018 12:10:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 15:17:43 +0800</lastBuildDate>
     
 	<atom:link href="https://ljziyue.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux常用配置及硬件检测命令</title>
+      <link>https://ljziyue.github.io/blog/2019/01/25/linux-command/</link>
+      <pubDate>Fri, 25 Jan 2019 15:17:43 +0800</pubDate>
+      
+      <guid>https://ljziyue.github.io/blog/2019/01/25/linux-command/</guid>
+      <description>操作系统版本 $ uname -a # 查看系统，主机名，内核版本，系统架构等命令 $ top # 总览系统全面信息命令，Ctrl + C 退出界面 $ hostname # 查看服务器主机名命令 $ cat</description>
+    </item>
     
     <item>
       <title>网站修改优化记录</title>
