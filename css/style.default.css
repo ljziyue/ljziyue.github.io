@@ -55,10 +55,9 @@ button {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-a i.iconfont,
-button i.iconfont {
+a i.fa,
+button i.fa {
   margin: 0 5px;
-  font-size: 14px;
 }
 .clickable {
   cursor: pointer !important;
@@ -108,11 +107,11 @@ div.section {
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
-.heading h1 i.iconfont,
-.heading h2 i.iconfont,
-.heading h3 i.iconfont,
-.heading h4 i.iconfont,
-.heading h5 i.iconfont {
+.heading h1 i.fa,
+.heading h2 i.fa,
+.heading h3 i.fa,
+.heading h4 i.fa,
+.heading h5 i.fa {
   display: inline-block;
   background: #38a7bb;
   width: 30px;
@@ -134,8 +133,8 @@ div.section {
   border: solid 1px #fff;
   font-size: 20px;
 }
-.iconfont.icon-leaf {
-  font-size: 32px;
+.icon.icon-lg {
+  font-size: 30px;
   border-width: 2px;
 }
 img {
@@ -984,7 +983,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 5px 5px 5px 0;
   text-transform: capitalize;
   letter-spacing: 0.08em;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 12px;
 }
 .panel.sidebar-menu ul.tag-cloud li a:hover {
